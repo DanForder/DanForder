@@ -8,7 +8,7 @@ Frontend Developer and Coach
 * 👋 My pronouns are he/him
 * 🖥️  See my portfolio at [dforder.com](http://portfolio.dforder.com)
 * ✉️  You can contact me at [danfrdr@gmail.com](mailto:danfrdr@gmail.com)
-* 🧠  I'm learning NextJS and Tailwind
+* 🧠  I'm currently learning NextJS, GSAP, Sanity CMS, and Tailwind
 
 ### Skills
 
